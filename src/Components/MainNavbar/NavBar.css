@@ -1,0 +1,58 @@
+/* .input{
+    
+    border-radius: 10px;
+    padding-left: 10px;
+    height: 40px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background: white;
+   
+}
+
+
+ 
+.starplusinput{
+    display: flex;
+    justify-content: center;
+    align-content:center;
+}
+.reactstars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    align-items: flex-end;
+    margin-left: 900px;
+    justify-content: space-between;
+    margin-top: 20px;
+ }
+.Add_btn{
+    margin-left: 50px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    width: 120px;
+    border: none;
+    color: rgb(34, 140, 240);
+    font-weight: 600;
+} */
+
+.my-nav {
+    width : 100% ;
+    display: flex;
+    flex-wrap: nowrap;
+}
+  .form{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+ }
